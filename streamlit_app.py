@@ -9,7 +9,7 @@ import skimage.io as io
 #np.__version__
 
 # main page
-st.set_page_config(page_title='David Cookie Finder', page_icon=favicon, layout='wide',
+st.set_page_config(page_title='David Cookie Finder', layout='wide',
                    initial_sidebar_state='auto')
 st.title('Cookie Finder using K-Means, by David Zingerman')
 
